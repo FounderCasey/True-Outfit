@@ -4,4 +4,4 @@ True Outfit uses Firebase to help brands link up with ambassadors. Instagram has
 
 # Xcode 8 - Swift 3 - Firebase
 
-![True Outfit](http://i.imgur.com/BqTDJ9g.gifv)
+![True Outfit](http://imgur.com/BqTDJ9g.gifv)
