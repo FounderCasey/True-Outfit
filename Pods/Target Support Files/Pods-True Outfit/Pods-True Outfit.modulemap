@@ -1,0 +1,6 @@
+framework module Pods_True_Outfit {
+  umbrella header "Pods-True Outfit-umbrella.h"
+
+  export *
+  module * { export * }
+}
